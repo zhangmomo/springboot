@@ -16,11 +16,11 @@ Markdown是一种轻量级且易于使用的语法，用于样式化您的写作
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**加粗** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+查看更多细节 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
